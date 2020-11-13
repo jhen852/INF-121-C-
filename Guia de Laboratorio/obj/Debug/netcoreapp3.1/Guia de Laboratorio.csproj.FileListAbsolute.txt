@@ -1,0 +1,13 @@
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\bin\Debug\netcoreapp3.1\Guia de Laboratorio.exe
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\bin\Debug\netcoreapp3.1\Guia de Laboratorio.deps.json
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\bin\Debug\netcoreapp3.1\Guia de Laboratorio.runtimeconfig.json
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\bin\Debug\netcoreapp3.1\Guia de Laboratorio.runtimeconfig.dev.json
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\bin\Debug\netcoreapp3.1\Guia de Laboratorio.dll
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\bin\Debug\netcoreapp3.1\Guia de Laboratorio.pdb
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\obj\Debug\netcoreapp3.1\Guia de Laboratorio.csprojAssemblyReference.cache
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\obj\Debug\netcoreapp3.1\Guia de Laboratorio.AssemblyInfoInputs.cache
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\obj\Debug\netcoreapp3.1\Guia de Laboratorio.AssemblyInfo.cs
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\obj\Debug\netcoreapp3.1\Guia de Laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\obj\Debug\netcoreapp3.1\Guia de Laboratorio.dll
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\obj\Debug\netcoreapp3.1\Guia de Laboratorio.pdb
+C:\Users\jhenn\OneDrive\Escritorio\AUXILIATURA 121\C#\Guia de Laboratorio\Guia de Laboratorio\obj\Debug\netcoreapp3.1\Guia de Laboratorio.genruntimeconfig.cache
